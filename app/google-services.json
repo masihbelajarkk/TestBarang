@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78945372511",
+    "firebase_url": "https://testbarang-47bb4.firebaseio.com",
+    "project_id": "testbarang-47bb4",
+    "storage_bucket": "testbarang-47bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78945372511:android:1b783f17b689a0066f8eea",
+        "android_client_info": {
+          "package_name": "com.example.testbarang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78945372511-buj9ufu8kb11m8rrl3lb96rtthafre5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKtEt7FYK8Oe7L8ihnw5hGYbrcWJ0bHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78945372511-buj9ufu8kb11m8rrl3lb96rtthafre5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
